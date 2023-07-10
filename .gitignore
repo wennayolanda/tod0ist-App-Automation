@@ -1,2 +1,5 @@
 # Ignore *.apk
 **/*.apk
+
+# Ignore .idea
+.idea
