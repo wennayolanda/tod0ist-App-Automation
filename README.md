@@ -18,4 +18,5 @@ Total scenarios are 39, with a total of 34 passed and 5 failed. The pass rate is
 
 **There were 5 defects found, with the most occurring in the Checkmark Task feature, totaling 2 bugs.**
 
-
+### Here is the link to the documentation that contains the test result graphics, defect list, and others:
+[Summary report for Todoist App](https://docs.google.com/spreadsheets/d/1FU-v2TYQdbpe0S2bu7_P_nALOKhavkhC/edit?usp=drive_link&ouid=112747824545737695938&rtpof=true&sd=true)
